@@ -1,2 +1,0 @@
-let buah = 
-const 
